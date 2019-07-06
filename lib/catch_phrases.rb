@@ -1,4 +1,4 @@
-def mario
+enddef mario
 phrase = "It's-a me, Mario!"
 puts phrase
 end
@@ -14,4 +14,3 @@ end
 
 def any_phrase (phrase)
   puts "Do A Barrel Roll!\n"
-end
